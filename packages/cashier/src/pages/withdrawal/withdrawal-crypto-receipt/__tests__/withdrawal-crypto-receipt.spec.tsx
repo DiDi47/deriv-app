@@ -1,4 +1,4 @@
-import React from 'react';
+XDimport React from 'react';
 import { fireEvent, render, screen } from '@testing-library/react';
 import WithdrawalCryptoReceipt from '../withdrawal-crypto-receipt';
 import CashierProviders from '../../../../cashier-providers';
